@@ -1,0 +1,10 @@
+.claude/
+
+docs/private/
+NOTES.md
+*.local.md
+
+*.old*
+*.tmp*
+*.orig*
+*.bak*
