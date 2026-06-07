@@ -1,9 +1,9 @@
+# Key-Rex
+> Tiny Arms. Massive Entropy.
+
 <div align="center">
   <img src="images/key-rex-logo.png" width="200" alt="Key-Rex screenshot">
 </div>
-
-# Key-Rex
-> Tiny Arms. Massive Entropy.
 
 A browser-based password and cryptographic key generator. Runs entirely client-side — no backend, no data sent anywhere.
 
